@@ -2,7 +2,7 @@ package main
 
 // import "fmt"
 
-// func printAge(age1, age2 int) (ageOfSally, ageOfBob int) {
+// func printAge(ages ...int) (ageOfSally, ageOfBob int) {
 // 	ageOfSally = age1
 // 	ageOfBob = age2
 // 	return
